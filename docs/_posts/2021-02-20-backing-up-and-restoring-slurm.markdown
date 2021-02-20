@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Backing up the Slurm Database!"
+date: 2021-02-20 03:05:05 -0800
+categories: tech slurm
+---
+
 # Slurm Accounting Database Backup and Restore
 Prior to making changes using sacctmgr on a large scale, it is always beneficial to create a backup.
 

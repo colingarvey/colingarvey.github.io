@@ -30,7 +30,8 @@ twitter_username: colingarvey
 github_username:  colingarvey
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-feed
 
