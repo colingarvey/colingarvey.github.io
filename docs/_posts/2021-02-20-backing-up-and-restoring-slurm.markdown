@@ -1,8 +1,9 @@
 ---
 layout: single
-title: "Backing up the Slurm Database!"
+title: "Slurm Accounting Database Backup and Restore"
 date: 2021-02-20 03:05:05 -0800
-categories: tech slurm
+categories:
+    - tech
 ---
 
 # Slurm Accounting Database Backup and Restore
@@ -21,7 +22,6 @@ This is relatively lightweight on the database and can be performed on any node.
 CLUSTER=slurm_cluster # Rosalind cluster name
 OUTPUT_FILE=$CLUSTER.cfg
 sacctmgr dump slurm_cluster file=slurm_cluster.cfg
-
 ```
 
 ### slurmdbd approach
