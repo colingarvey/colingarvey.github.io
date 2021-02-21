@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Slurm Accounting Database Backup and Restore"
-date: 2021-02-20 03:05:05 -0800
+date: 2021-02-19 18:00:00 -0800
 categories:
     - tech
 ---

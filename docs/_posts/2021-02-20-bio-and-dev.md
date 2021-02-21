@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Biography and 2021 Development Goals"
-date: 2021-02-20 03:05:05 -0800
+date: 2021-02-20 21:52 -0800
 categories:
     - tech
 ---
