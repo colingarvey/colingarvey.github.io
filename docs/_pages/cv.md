@@ -90,10 +90,6 @@ Distinguished and resolved customers’ hardware and software technical issues (
 mobile devices)
 Resolved and escalated incidents within a timely manner in respect to strict Service Level Agreements
 
-## Education
-`2005-2007`
-__High School Diploma. Encinal High School, Alameda, CA__
-
 
 ## Skills
 
@@ -111,3 +107,9 @@ __High School Diploma. Encinal High School, Alameda, CA__
 
 ## Publications
 - Estevez, Alberto & Garvey, Colin & Ciferri, Claudio. (2016). EM by EM: High-Efficiency Epitope Mapping using High-Throughput Electron Microscopy. Microscopy and Microanalysis. 22. 1080-1081. 10.1017/S1431927616006243.
+
+## Education
+_BA Computer Science - In Progress | San Mateo Community College District_
+`2017-Present` 
+_Encinal High School, Alameda, CA_
+`2005-2007`
