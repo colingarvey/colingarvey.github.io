@@ -15,7 +15,7 @@ enabling science, and its application in helping patients with unmet medical nee
 
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">colin.garvey@gmail.com</a>
+<a href="mailto:colin.garvey@gmail.com">colin.garvey@gmail.com</a>
 | <a href="https://colingarvey.github.io">My Personal Website</a> 
 | <a href="https://linkedin.com/in/colin-garvey-61687066">LinkedIn</a>
 </div>
