@@ -110,3 +110,4 @@ __High School Diploma. Encinal High School, Alameda, CA__
 - **Excellent Communicator**
 
 ## Publications
+- Estevez, Alberto & Garvey, Colin & Ciferri, Claudio. (2016). EM by EM: High-Efficiency Epitope Mapping using High-Throughput Electron Microscopy. Microscopy and Microanalysis. 22. 1080-1081. 10.1017/S1431927616006243.
