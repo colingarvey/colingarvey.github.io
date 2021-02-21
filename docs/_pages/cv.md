@@ -63,8 +63,7 @@ __IT Engineer - Research and Early Development__
 
 - Liaison between IT and scientists in support of technical projects
 - Collaborated with business partners and IT organization to improve support and solution delivery
-- Worked as a technical lead on project teams comprised of the Business and IT to support technology
-solutions
+- Worked as a technical lead on project teams comprised of the Business and IT to support technology solutions
 - Provided support for issues on high performance computing, Linux workstations, and Lab acquisition machines – including diagnosis, troubleshooting and resource coordination
 
 
@@ -73,8 +72,7 @@ __Systems Specialist I - IT Research & Early Development__
 `Genentech`
 
 - Redesigned support intake, request fulfillment, and incident resolution processes supporting our R&D organization by consolidating 15-20 communication channels into 1. This greatly improved our operating efficiency and customer experience.
-- Supported day-to-day operations within area of technical expertise, contributes to and executes project
-implementation plans
+- Supported day-to-day operations within area of technical expertise, contributes to and executes project implementation plans
 - Executed incident and problem management processes as well as release and configuration
 management. This includes continuous improvement for the management of the services.
 
@@ -82,16 +80,10 @@ __Associate Systems Specialist__
 `2013-2014`<br>
 `Genentech`
 
-Provided Genentech and Roche employees with world-class technical support and customer service via
-the Service Desk, achieving a 90% average First Call Resolution rate
-Dynamically solved complex IT issues with networking, client side Operating Systems, Active Directory,
-and specialized Research applications
-Deployed systems and coordinated with vendors and internal groups to minimize scientific data
-acquisition downtime
-Distinguished and resolved customers’ hardware and software technical issues (including PC’s, MACs,
-mobile devices)
-Resolved and escalated incidents within a timely manner in respect to strict Service Level Agreements
-
+- Provided Genentech and Roche employees with world-class technical support and customer service via the Service Desk, achieving a 90% average First Call Resolution rate
+- Dynamically solved complex IT issues with networking, client side Operating Systems, Active Directory, and specialized Research applications 
+- Distinguished and resolved customers’ hardware and software technical issues (including PC’s, MACs, mobile devices), improving business productivity
+- Resolved and escalated incidents within a timely manner to strict Service Level Agreements
 
 ## Skills
 
