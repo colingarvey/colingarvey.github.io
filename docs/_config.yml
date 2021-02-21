@@ -15,6 +15,16 @@ author:
   avatar: "/assets/images/colin_headshot.jpg"
   bio: "Professional software engineer, systems architect, and connoisseur of all things"
   location: "SF Bay Area"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:colin.garvey@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://colingarvey.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/colingarvey"
 # Build settings
 markdown: kramdown
 highlighter: rouge
