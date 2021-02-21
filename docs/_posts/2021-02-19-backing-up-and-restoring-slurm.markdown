@@ -5,12 +5,17 @@ date: 2021-02-20 03:05:05 -0800
 categories:
     - tech
 ---
+Slurm is a workflow and resource manager that runs on High Performance Computing Clusters (read Supercomputers.) This article is a brain dump of 
+my experience performing changes to the associations table in its database. The associations table manages relationships between users and "bank accounts".
+Bank accounts are a way to charge for cluster resource utilization, primarily cores, but including other finite resources.
 
-Prior to making changes using sacctmgr on a large scale, it is always beneficial to create a backup.
+
+Sacctmgr is the CLI tool used by Slurm to manage its accounting database. Prior to making changes using sacctmgr on a large scale, it is always beneficial to create a backup.
 
 ## Creating Backups
 ### sacctmgr approach
-This backs up the existing sacctmgr associations data to a config file that includes all accounting information.
+This backs up the existing sacctmgr associations data to a config file that includes all accounting information. NOTE: restoring from this backup does not delete previous associations.
+This is a Slurm bug. Therefore, I would highly recommend performing both this for convenience and a MySQL database dump as well.
 
 This is relatively lightweight on the database and can be performed on any node.
 
@@ -24,11 +29,11 @@ sacctmgr dump slurm_cluster file=slurm_cluster.cfg
 ```
 
 ### slurmdbd approach
-This backs up the entire slurm_acct_db database from nb001.
+This backs up the entire slurm_acct_db database from your head node.
 
 **CAUTION** I am unsure whether this has an impact to a running Slurm database or its existing jobs. Dumps can cause downtime while MySQL or MariaDB is under high load in my experience.
 
-1. ssh to nb001
+1. ssh to your head node
 2. Create a bash script or run the following commands to back up the file to a .sql file
 ```bash
 #!/usr/bin/env bash
