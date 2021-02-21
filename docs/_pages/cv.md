@@ -35,6 +35,8 @@ significant technical debt.
 - Awarded Development Sciences Key Contributor award 2 years in a row for making significant
 contributions to Genentech Research and Early Development.
 
+## History
+
 __Solutions Architect__
 `Sep 2017 - Sep 2018`<br>
 `Genentech, Inc.`
