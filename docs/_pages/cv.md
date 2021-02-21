@@ -95,7 +95,7 @@ Resolved and escalated incidents within a timely manner in respect to strict Ser
 
 ## Skills
 
-- **Python (Programming Language)**
+- **Python**
 - **Django and Flask**
 - **Software Engineering**
 - **Systems Architecture**
