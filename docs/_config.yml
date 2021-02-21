@@ -28,6 +28,7 @@ plugins:
   - jekyll-include-cache
 
 
+include: ["_pages"]
 repository: "colingarvey/colingarvey.github.io"
 defaults:
   # _posts
@@ -38,6 +39,14 @@ defaults:
       show_date: true
       author_profile: true
 
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 # Social Profile
 social:
   type: Person 

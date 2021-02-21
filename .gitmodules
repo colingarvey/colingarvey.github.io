@@ -1,0 +1,3 @@
+[submodule "docs/markdown-cv"]
+	path = docs/markdown-cv
+	url = https://github.com/elipapa/markdown-cv
