@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Biography and Development Goals (1-2Y)"
+title: "Me"
 date: 2021-02-20 21:52 -0800
 categories:
     - tech
