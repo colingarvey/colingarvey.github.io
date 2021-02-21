@@ -6,7 +6,6 @@ categories:
     - tech
 ---
 
-# Slurm Accounting Database Backup and Restore
 Prior to making changes using sacctmgr on a large scale, it is always beneficial to create a backup.
 
 ## Creating Backups
