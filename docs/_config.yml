@@ -52,10 +52,8 @@ social:
   type: Person 
   name:
   links:
-    - "https://twitter.com/yourTwitter"
-    - "https://www.facebook.com/yourFacebook"
-    - "https://instagram.com/yourProfile"
-    - "https://www.linkedin.com/in/yourprofile"
+    - "https://instagram.com/colingarvey"
+    - "https://www.linkedin.com/in/colin-garvey-61687066/"
 
 remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 minimal_mistakes_skin:  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
