@@ -109,7 +109,9 @@ Resolved and escalated incidents within a timely manner in respect to strict Ser
 - Estevez, Alberto & Garvey, Colin & Ciferri, Claudio. (2016). EM by EM: High-Efficiency Epitope Mapping using High-Throughput Electron Microscopy. Microscopy and Microanalysis. 22. 1080-1081. 10.1017/S1431927616006243.
 
 ## Education
-_BA Computer Science - In Progress | San Mateo Community College District_
+
+__BA Computer Science - In Progress | San Mateo Community College District__
 `2017-Present` 
-_Encinal High School, Alameda, CA_
+
+__Encinal High School, Alameda, CA__
 `2005-2007`
