@@ -23,8 +23,8 @@ enabling science, and its application in helping patients with unmet medical nee
 ## Currently
 
 __Senior Solutions Architect__
-`Sep 2018 - Now`<br>
-`Genentech, Inc.`
+`2018-Now`<br>
+`Genentech`
 - Owner of Python and JupyterLab Portal using self-developed and maintained user portal
 - Designed and built High Performance Computing middleware and infrastructure, including compute
 and storage
@@ -38,8 +38,8 @@ contributions to Genentech Research and Early Development.
 ## History
 
 __Solutions Architect__
-`Sep 2017 - Sep 2018`<br>
-`Genentech, Inc.`
+`2017-2018`<br>
+`Genentech`
 
 - Designed and built out petabyte scale storage systems to store large high dimensional data, such as
 omics and imaging data, for Genentech Research and Early Development
@@ -49,8 +49,8 @@ environment.
 infrastructure.
 
 __Data Engineer__
-`Sep 2016 - Sep 2017`<br>
-`Genentech, Inc.`
+`2016-2017`<br>
+`Genentech`
 
 - Engineer solutions for Genentech Research scientific computing data and its underlying storage
 platforms.
@@ -58,8 +58,8 @@ platforms.
 
 
 __IT Engineer - Research and Early Development__
-`Aug 2015 - Sep 2016`<br>
-`Genentech, Inc.`
+`2015-2016`<br>
+`Genentech`
 
 - Liaison between IT and scientists in support of technical projects
 - Collaborated with business partners and IT organization to improve support and solution delivery
@@ -69,8 +69,8 @@ solutions
 
 
 __Systems Specialist I - IT Research & Early Development__
-`Sep 2014 - Aug 2015`<br>
-`Genentech, Inc.`
+`2014-2015`<br>
+`Genentech`
 
 - Redesigned support intake, request fulfillment, and incident resolution processes supporting our R&D organization by consolidating 15-20 communication channels into 1. This greatly improved our operating efficiency and customer experience.
 - Supported day-to-day operations within area of technical expertise, contributes to and executes project
@@ -79,7 +79,7 @@ implementation plans
 management. This includes continuous improvement for the management of the services.
 
 __Associate Systems Specialist__
-`Mar 2013 - Sep 2014`<br>
+`2013-2014`<br>
 `Genentech`
 
 Provided Genentech and Roche employees with world-class technical support and customer service via
