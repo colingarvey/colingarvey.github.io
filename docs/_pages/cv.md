@@ -26,11 +26,11 @@ __Senior Solutions Architect__
 `2018-Now`<br>
 `Genentech`
 - Owner of Python and JupyterLab Portal using self-developed and maintained user portal
-- Designed and built High Performance Computing middleware and infrastructure, including compute
+- Design and build High Performance Computing middleware and infrastructure, including compute
 and storage
-- Developed data transfer mechanisms and processes which allowed for offloading to lower cost
+- Develop data transfer mechanisms and processes which allowed for offloading to lower cost
 storage tiers, saving $5MM in capital expenditures.
-- Containerized and converted monolithic workloads to run in cloud native paradigms, paying down
+- Containerize and convert monolithic workloads to run in cloud native paradigms, paying down
 significant technical debt.
 - Awarded Development Sciences Key Contributor award 2 years in a row for making significant
 contributions to Genentech Research and Early Development.
