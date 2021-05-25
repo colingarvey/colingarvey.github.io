@@ -16,11 +16,11 @@ enabling science, and its application in helping patients with unmet medical nee
 
 <div id="webaddress">
 <a href="mailto:colin.garvey@gmail.com">colin.garvey@gmail.com</a>
-| <a href="https://colingarvey.github.io">My Personal Website</a> 
-| <a href="https://linkedin.com/in/colin-garvey-61687066">LinkedIn</a>
+| <a href="https://colingarvey.github.io">colingarvey.github.io</a> 
+| <a href="https://linkedin.com/in/colin-garvey-61687066">(650)392-4997</a>
 </div>
 
-## Currently
+## History
 
 __Senior Solutions Architect__
 `2018-Now`<br>
@@ -34,8 +34,6 @@ storage tiers, saving $5MM in capital expenditures.
 significant technical debt.
 - Awarded Development Sciences Key Contributor award 2 years in a row for making significant
 contributions to Genentech Research and Early Development.
-
-## History
 
 __Solutions Architect__
 `2017-2018`<br>
@@ -87,17 +85,7 @@ __Associate Systems Specialist__
 
 ## Skills
 
-- **Python**
-- **Django and Flask**
-- **Software Engineering**
-- **Systems Architecture**
-- **Bash**
-- **Linux Expert**
-- **Software Documenter**
-- **Problem Solver and Trouble Shooter**
-- **Continuous Integration**
-- **Software Development Life Cycle (SDLC)**
-- **Excellent Communicator**
+**Programming Polyglot** | **Linux** | **Ansible / Terraform ** | **Software Engineering** | **Systems Architecture** | **Cloud Infrastructure** | **Excellent Communicator**
 
 ## Publications
 - Estevez, Alberto & Garvey, Colin & Ciferri, Claudio. (2016). EM by EM: High-Efficiency Epitope Mapping using High-Throughput Electron Microscopy. Microscopy and Microanalysis. 22. 1080-1081. 10.1017/S1431927616006243.
