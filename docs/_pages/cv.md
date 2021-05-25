@@ -84,8 +84,7 @@ __Associate Systems Specialist__
 - Resolved and escalated incidents within a timely manner to strict Service Level Agreements
 
 ## Skills
-
-- **Programming Polyglot** | **Linux** | **Ansible / Terraform** | **Software Engineering** | **Systems Architecture** | **Cloud Infrastructure** | **Excellent Communicator**
+- Programming Polyglot | Linux | Ansible / Terraform | Software Engineering | Systems Architecture | Cloud Infrastructure | Excellent Communicator
 
 ## Publications
 - Estevez, Alberto & Garvey, Colin & Ciferri, Claudio. (2016). EM by EM: High-Efficiency Epitope Mapping using High-Throughput Electron Microscopy. Microscopy and Microanalysis. 22. 1080-1081. 10.1017/S1431927616006243.
