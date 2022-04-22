@@ -22,44 +22,50 @@ enabling science, and its application in helping patients with unmet medical nee
 
 ## History
 
+__Senior DevOps Engineer__
+`2021-Now`<br>
+`Genentech`
+- Lead initiative to establish foundational data infrastructure and capabilities
+  to enable cloud adoption and storage migration
+- Architect, develop, build and implement software engineering platforms (CI/CD,
+  etc) for internal developer community
+- Automate processes to reduce or eliminate manual steps and improve reproducibility drive monitoring and proactive alerting
+- Rigorously document technical systems and solutions and updates on a regular basis
+
+
 __Senior Solutions Architect__
-`2018-Now`<br>
+`2018-2021`<br>
 `Genentech`
 - Owner of Python and JupyterLab Portal using self-developed and maintained user portal
-- Design and build High Performance Computing middleware and infrastructure, including compute
+- Designed and built High Performance Computing middleware and infrastructure, including compute
 and storage
-- Develop data transfer mechanisms and processes which allowed for offloading to lower cost
-storage tiers, saving $5MM in capital expenditures.
-- Containerize and convert monolithic workloads to run in cloud native paradigms, paying down
-significant technical debt.
+- Developed data transfer mechanisms and processes which allowed for offloading to lower cost
+storage tiers, saving $5MM in capital expenditures
 - Awarded Development Sciences Key Contributor award 2 years in a row for making significant
-contributions to Genentech Research and Early Development.
+contributions to Genentech Research and Early Development
 
 __Solutions Architect__
 `2017-2018`<br>
 `Genentech`
-
 - Designed and built out petabyte scale storage systems to store large high dimensional data, such as
 omics and imaging data, for Genentech Research and Early Development
 - Conceptualized frameworks to perform user authentication for a complex Directory Services and auth
-environment.
+environment
 - Built a strategy for data retention and led major maintenance and upgrade cycles for our storage
-infrastructure.
+infrastructure
 
 __Data Engineer__
 `2016-2017`<br>
 `Genentech`
-
-- Engineer solutions for Genentech Research scientific computing data and its underlying storage
-platforms.
+- Engineered solutions for Genentech Research scientific computing data and its underlying storage
+platforms
 - Managed petabyte scale unstructured data on NAS, SAN, parallel, and cloud object storage
 
 
 __IT Engineer - Research and Early Development__
 `2015-2016`<br>
 `Genentech`
-
-- Liaison between IT and scientists in support of technical projects
+- Served as a liaison between IT and scientists in support of technical projects
 - Collaborated with business partners and IT organization to improve support and solution delivery
 - Worked as a technical lead on project teams comprised of the Business and IT to support technology solutions
 - Provided support for issues on high performance computing, Linux workstations, and Lab acquisition machines – including diagnosis, troubleshooting and resource coordination
