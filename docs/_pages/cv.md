@@ -10,7 +10,7 @@ style: kjhealy
 
 # Colin Garvey
 <br>
-Senior Systems Architect specialized in design and implementation of computing and data infrastructure for
+DevOps Engineer specialized in design and implementation of computing and data infrastructure for
 enabling science, and its application in helping patients with unmet medical needs.
 
 
@@ -90,10 +90,13 @@ __Associate Systems Specialist__
 - Resolved and escalated incidents within a timely manner to strict Service Level Agreements
 
 ## Skills
-- **Programming Polyglot** \| **Linux** \| **Ansible / Terraform** \| **Software Engineering** \| **Systems Architecture** \| **Cloud Infrastructure** \| **Excellent Communicator**
+
+**Python** \| **AWS** \| **Linux** \|  **IaC** \| **Software
+  Engineering** \| **Systems Architecture** | **Communications**
 
 ## Publications
-- Estevez, Alberto & Garvey, Colin & Ciferri, Claudio. (2016). EM by EM: High-Efficiency Epitope Mapping using High-Throughput Electron Microscopy. Microscopy and Microanalysis. 22. 1080-1081. 10.1017/S1431927616006243.
+
+Estevez, Alberto & Garvey, Colin & Ciferri, Claudio. (2016). EM by EM: High-Efficiency Epitope Mapping using High-Throughput Electron Microscopy. Microscopy and Microanalysis. 22. 1080-1081. 10.1017/S1431927616006243.
 
 ## Education
 

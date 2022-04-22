@@ -91,12 +91,11 @@ ul {
 	/*margin-top: -0.5em;*/
 }
 
-/*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/
@@ -119,6 +118,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
+    color: #4C566A;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -134,7 +134,7 @@ h1+p {
 
 h2 {
 	font-size: 1.1em;
-	color: #a00;
+	color: #4C566A;
 	margin-top: 2em;
 	position: relative;
 	top: 1.2em;
