@@ -21,6 +21,12 @@ enabling science, and its application in helping patients with unmet medical nee
 </div>
 
 ## History
+__Principal DevOps Engineer and Systems Architect__
+`2021-Now`<br>
+- Design, build, and lead a team of DevOps engineers and Operations to create a scalable interactive platform for Scientific Computing
+- Cloud Infrastructure engineering on AWS to build networking, compute, and storage infrastructure for large scale scientific analyses.
+- Designed data transfer processes and tooling for petabyte- scale data transfers.
+- Extensively leverage Infrastructure as Code tooling and programming languages and framework as needed based on project complexity to deliver a right-sized and right-featured solution
 
 __Senior DevOps Engineer__
 `2021-Now`<br>
