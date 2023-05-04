@@ -15,9 +15,10 @@ enabling science, and its application in helping patients with unmet medical nee
 
 
 <div id="webaddress">
-<a href="mailto:colin.garvey@gmail.com">colin.garvey@gmail.com</a>
+  <a href="mailto:colin.garvey@gmail.com">colin.garvey@gmail.com</a>
 | <a href="https://colingarvey.github.io">colingarvey.github.io</a> 
-| <a href="https://linkedin.com/in/colin-garvey-61687066">(650)392-4997</a>
+| <a href="https://linkedin.com/in/colin-garvey-61687066">LinkedIn</a>
+  <a href="tel:+16503924997">+1 (650) 392-4997</a>
 </div>
 
 ## History
