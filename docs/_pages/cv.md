@@ -22,7 +22,7 @@ enabling science, and its application in helping patients with unmet medical nee
 </div>
 
 ## History
-__Principal DevOps Engineer and Systems Architect__
+__Principal Software Engineer and Systems Architect__
 `2021-Now`<br>
 - Technical lead and creator of the Converge platform, powering many scientific endeavors throughout gRED including AI4DD and BRAID communities.
 - Design, build, and lead a team of DevOps engineers and Operations to create a scalable interactive platform for Scientific Computing
