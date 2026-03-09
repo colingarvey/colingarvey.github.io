@@ -10,7 +10,7 @@ style: kjhealy
 
 # Colin Garvey
 <br>
-DevOps Engineer specialized in design and implementation of computing and data infrastructure for
+Principal Software Engineer specialized in design and implementation of computing and data infrastructure for
 enabling science, and its application in helping patients with unmet medical needs.
 
 
