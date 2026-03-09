@@ -30,7 +30,7 @@ __Principal DevOps Engineer and Systems Architect__
 - Extensively leverage Infrastructure as Code tooling and programming languages and framework as needed based on project complexity to deliver a right-sized and right-featured solution
 
 __Senior DevOps Engineer__
-`2021-Now`<br>
+`Mar 2021-Oct 2021`<br>
 `Genentech`
 - Lead initiative to establish foundational data infrastructure and capabilities
   to enable cloud adoption and storage migration
